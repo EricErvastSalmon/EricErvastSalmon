@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 My name is Eric!
+🔭 I’m currently working on learning how to code. I'm new to the world of tech and software development and I'm excited to venture into this space!
 <!--
 **EricErvastSalmon/EricErvastSalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
